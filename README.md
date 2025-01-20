@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/2ikwIgNrmPZICNmRyX/200w.gif?cid=6c09b952zcomyf1rulliuonn48087xefmpnyc9nxkrp8uyor&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right" width="200px"/>
 
-# mrepol742.github.io
+# emmanuelkirui.github.io
 This is where i showcase my projects, landing pages, tools and other awesome things.
 ## Start
 ```bash
